@@ -1,5 +1,4 @@
-import 'package:bikroy/app/module/nav/view/navView.dart';
-import 'package:bikroy/app/route/appPage.dart';
+import 'package:get_project/app/route/appPage.dart';
 
 import 'package:get/get.dart';
 
@@ -12,9 +11,9 @@ class SplashController extends GetxController {
 
   nextPage() {
     Future.delayed(
-      Duration(seconds: 3),
+      const Duration(seconds: 3),
       () {
-        Get.offAllNamed(Routes.navScreen);
+        Get.offAllNamed(Routes.homeScreen);
       },
     );
   }

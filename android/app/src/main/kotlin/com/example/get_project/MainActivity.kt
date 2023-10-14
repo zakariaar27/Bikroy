@@ -1,4 +1,4 @@
-package com.example.bikroy
+package com.example.get_project
 
 import io.flutter.embedding.android.FlutterActivity
 

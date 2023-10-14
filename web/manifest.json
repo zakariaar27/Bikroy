@@ -1,6 +1,6 @@
 {
-    "name": "bikroy",
-    "short_name": "bikroy",
+    "name": "get_project",
+    "short_name": "get_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

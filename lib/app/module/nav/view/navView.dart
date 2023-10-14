@@ -1,4 +1,4 @@
-import 'package:bikroy/app/module/nav/controller/navControler.dart';
+import 'package:get_project/app/module/nav/controller/navControler.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';

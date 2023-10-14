@@ -1,4 +1,4 @@
-import 'package:bikroy/app/module/splashScreen/controllers/splashController.dart';
+import 'package:get_project/app/module/splashScreen/controllers/splashController.dart';
 import 'package:get/get.dart';
 
 class SplashBinding extends Bindings {

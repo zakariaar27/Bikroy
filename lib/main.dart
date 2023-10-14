@@ -1,5 +1,5 @@
-import 'package:bikroy/app/module/splashScreen/views/SplashViews.dart';
-import 'package:bikroy/app/route/appPage.dart';
+import 'package:get_project/app/module/splashScreen/views/SplashViews.dart';
+import 'package:get_project/app/route/appPage.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
